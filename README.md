@@ -2,4 +2,4 @@
 
 Estoy aprendiendo Git/GitHub.
 
-Esta modificación pertenece a feature-readme
+Git local + GitHub funcionando.
